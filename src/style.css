@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  .textfield {
+    width: 200px;
+    text-align: center; 
+    margin-bottom: 10px; 
+    margin-right: 50px;
+  }
+  
+  .select {
+    width: 200px;
+    margin-left: 20px; 
+  }
+  
